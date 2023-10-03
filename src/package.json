@@ -1,0 +1,19 @@
+{
+  "name": "@daviddealvarado-clarivate/cypress-visual-regression",
+  "version": "1.0.0",
+  "description": "fork of original cypress visual regression",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviddealvarado-clarivate/cypress-visual-regression.git"
+  },
+  "author": "David de Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviddealvarado-clarivate/cypress-visual-regression/issues"
+  },
+  "homepage": "https://github.com/daviddealvarado-clarivate/cypress-visual-regression#readme"
+}
